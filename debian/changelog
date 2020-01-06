@@ -1,3 +1,9 @@
+cozy-keyring (20191031.1) unstable; urgency=medium
+
+  * Extend keys
+
+ -- aeris <aeris@cozycloud.cc>  Thu, 31 Oct 2019 14:18:08 +0100
+
 cozy-keyring (20190103.1) unstable; urgency=medium
 
   * Initial Release.
