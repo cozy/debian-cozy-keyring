@@ -6,3 +6,7 @@ cozy-nightly-keyring.gpg:
 	gpg --export --no-armor 0x33A051CC16F562D6 > $@
 
 refresh: cozy-keyring.gpg cozy-nightly-keyring.gpg
+
+release:
+	dch --newversion "$(shell date +"%Y%m%d.1")" "Extend keys"
+	dch --release --distribution testing ""
