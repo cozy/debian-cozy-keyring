@@ -1,5 +1,4 @@
 debian/*.substvars
 debian/debhelper-build-stamp
 debian/cozy-keyring/
-debian/cozy-nightly-keyring/
 debian/files
