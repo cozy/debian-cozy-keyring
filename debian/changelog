@@ -1,3 +1,9 @@
+cozy-keyring (20231018.1) testing; urgency=medium
+
+  * Extend keys
+
+ -- Cozycloud Packaging Team <debian@cozycloud.cc>  Wed, 18 Oct 2023 09:38:34 +0000
+
 cozy-keyring (20230102.1) testing; urgency=medium
 
   * Extend keys
