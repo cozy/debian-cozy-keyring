@@ -1,4 +1,6 @@
+cozy-keyring.gpg~
 debian/*.substvars
 debian/debhelper-build-stamp
 debian/cozy-keyring/
 debian/files
+debian/.debhelper/
