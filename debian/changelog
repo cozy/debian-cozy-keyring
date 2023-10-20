@@ -1,3 +1,9 @@
+cozy-keyring (20231019.1) stable; urgency=medium
+
+  * Move keyring to /usr/share/keyrings
+
+ -- Cozycloud Packaging Team <debian@cozycloud.cc>  Thu, 19 Oct 2023 17:49:02 +0200
+
 cozy-keyring (20231018.1) testing; urgency=medium
 
   * Extend keys

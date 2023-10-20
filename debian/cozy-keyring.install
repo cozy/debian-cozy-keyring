@@ -1,1 +1,1 @@
-cozy-keyring.gpg etc/apt/trusted.gpg.d
+cozy-keyring.gpg usr/share/keyrings

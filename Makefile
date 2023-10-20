@@ -7,4 +7,4 @@ refresh: cozy-keyring.gpg
 
 release:
 	DEBEMAIL="Cozycloud Packaging Team <debian@cozycloud.cc>" dch --newversion "$(shell date +"%Y%m%d.1")" "Extend keys"
-	DEBEMAIL="Cozycloud Packaging Team <debian@cozycloud.cc>" dch --release --distribution testing ""
+	DEBEMAIL="Cozycloud Packaging Team <debian@cozycloud.cc>" dch --release --distribution stable ""
