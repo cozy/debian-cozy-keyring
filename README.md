@@ -54,7 +54,7 @@ DEBEMAIL="Cozycloud Packaging Team <debian@cozycloud.cc>" dch --release --distri
 
 ## Build package
 
-either automatically in debian 12 docker container or manually
+either automatically in debian 10 docker container or manually
 
 ### With docker
 
